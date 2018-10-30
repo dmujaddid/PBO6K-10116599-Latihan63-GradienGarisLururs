@@ -17,15 +17,15 @@ package pbo6k.pkg10116599.latihan62.livingthing;
 public class LivingThing {
 
     public void walk(String nama) {
-        System.out.println("Sedang berjalan");
+        System.out.println(" Sedang berjalan");
     }
 
     public void breath(String nama) {
-        System.out.println("bernafas");
+        System.out.println(" bernafas");
     }
 
     public void eat(String nama) {
-        System.out.println("makan");
+        System.out.println(" makan");
     }
 
 }

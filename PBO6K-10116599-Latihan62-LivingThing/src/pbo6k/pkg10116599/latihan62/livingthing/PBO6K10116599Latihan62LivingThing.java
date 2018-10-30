@@ -24,6 +24,19 @@ public class PBO6K10116599Latihan62LivingThing {
         
         Human human = new Human();
         human.setNama("Rizki Adam Kurniawan");
+        
+        LivingThing lt = new LivingThing();
+        
+        
+        
+        human.getNama();
+        
+        System.out.print(human.getNama());
+        lt.walk("");
+        System.out.print(human.getNama());
+        lt.breath("");
+        System.out.print(human.getNama());
+        lt.eat("");
     }
     
 }

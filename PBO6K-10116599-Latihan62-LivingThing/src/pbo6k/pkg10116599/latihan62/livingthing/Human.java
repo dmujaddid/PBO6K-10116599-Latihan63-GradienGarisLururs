@@ -24,9 +24,14 @@ public class Human extends LivingThing {
     public void setNama(String nama) {
         this.nama = nama;
     }
-    
+
+    @Override
     public void walk(String nama) {
-        
+        super.walk(" berjalan");
     }
+    
+    
+    
+    
     
 }
