@@ -16,6 +16,11 @@ public class PBO6K10116599Latihan54Koordinat {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        WarnaKoordinat warkor = new WarnaKoordinat();
+        
+        System.out.println("Warna Koordinat");
+        
     }
     
 }
