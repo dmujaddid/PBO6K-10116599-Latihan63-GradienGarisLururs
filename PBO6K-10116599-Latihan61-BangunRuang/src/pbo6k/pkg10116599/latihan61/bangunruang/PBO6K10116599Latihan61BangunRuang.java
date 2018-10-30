@@ -7,7 +7,12 @@ package pbo6k.pkg10116599.latihan61.bangunruang;
 
 /**
  *
- * @author eka
+ * @author
+ * NAMA     : Robby Eka Purnama
+ * KELAS    : PBO6K
+ * NIM      : 10116599
+ * Deskripsi Program : Program Bangun Ruang.
+ * 
  */
 public class PBO6K10116599Latihan61BangunRuang {
 
