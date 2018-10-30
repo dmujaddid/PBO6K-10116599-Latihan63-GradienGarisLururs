@@ -21,6 +21,9 @@ public class PBO6K10116599Latihan62LivingThing {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Human human = new Human();
+        human.setNama("Rizki Adam Kurniawan");
     }
     
 }

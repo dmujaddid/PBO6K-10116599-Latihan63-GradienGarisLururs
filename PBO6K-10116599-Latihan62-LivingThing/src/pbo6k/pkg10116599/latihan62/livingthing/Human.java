@@ -13,6 +13,20 @@ package pbo6k.pkg10116599.latihan62.livingthing;
  * NIM      : 10116599
  * Deskripsi Program : Program LivingThing.
  */
-public class Human {
+public class Human extends LivingThing {
+    
+    private String nama;
+
+    public String getNama() {
+        return nama;
+    }
+
+    public void setNama(String nama) {
+        this.nama = nama;
+    }
+    
+    public void walk(String nama) {
+        
+    }
     
 }
