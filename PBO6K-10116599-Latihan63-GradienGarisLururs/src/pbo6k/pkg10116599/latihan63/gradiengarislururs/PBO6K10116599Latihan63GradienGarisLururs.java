@@ -11,7 +11,7 @@ package pbo6k.pkg10116599.latihan63.gradiengarislururs;
  * NAMA     : Robby Eka Purnama
  * KELAS    : PBO6K
  * NIM      : 10116599
- * Deskripsi Program : Program Gradien Garis Lururs.
+ * Deskripsi Program : Program Gradien Garis Lurus.
  * 
  */
 public class PBO6K10116599Latihan63GradienGarisLururs {
