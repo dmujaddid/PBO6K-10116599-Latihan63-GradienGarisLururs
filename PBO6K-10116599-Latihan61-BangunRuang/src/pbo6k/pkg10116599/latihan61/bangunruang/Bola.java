@@ -7,7 +7,12 @@ package pbo6k.pkg10116599.latihan61.bangunruang;
 
 /**
  *
- * @author eka
+ * @author 
+ * NAMA     : Robby Eka Purnama
+ * KELAS    : PBO6K
+ * NIM      : 10116599
+ * Deskripsi Program : Program untuk menghitung ruang bangun.
+ * 
  */
 public abstract class Bola extends BangunRuang {
 
@@ -22,7 +27,5 @@ public abstract class Bola extends BangunRuang {
         double luas = 4 / 3 * 3.14 * jariJari * jariJari * jariJari;
         return luas;
     }
-
-    
 
 }
